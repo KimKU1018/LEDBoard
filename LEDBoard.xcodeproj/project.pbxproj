@@ -13,6 +13,7 @@
 		7F5915F5296D390000D3BB98 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F5915F3296D390000D3BB98 /* Main.storyboard */; };
 		7F5915F7296D390100D3BB98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7F5915F6296D390100D3BB98 /* Assets.xcassets */; };
 		7F5915FA296D390100D3BB98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7F5915F8296D390100D3BB98 /* LaunchScreen.storyboard */; };
+		7F591602296FAADB00D3BB98 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F591601296FAADB00D3BB98 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7F5915F6296D390100D3BB98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7F5915F9296D390100D3BB98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7F5915FB296D390100D3BB98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7F591601296FAADB00D3BB98 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7F5915F6296D390100D3BB98 /* Assets.xcassets */,
 				7F5915F8296D390100D3BB98 /* LaunchScreen.storyboard */,
 				7F5915FB296D390100D3BB98 /* Info.plist */,
+				7F591601296FAADB00D3BB98 /* SettingViewController.swift */,
 			);
 			path = LEDBoard;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				7F5915F2296D390000D3BB98 /* ViewController.swift in Sources */,
 				7F5915EE296D390000D3BB98 /* AppDelegate.swift in Sources */,
 				7F5915F0296D390000D3BB98 /* SceneDelegate.swift in Sources */,
+				7F591602296FAADB00D3BB98 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
